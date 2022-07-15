@@ -36,4 +36,3 @@ func RunApp(app *ufcli.App) {
 		os.Exit(1)
 	}
 }
-
